@@ -1,3 +1,4 @@
 holli
 q onda
 me llamo johan
+se sale del commit con esc + shift + z + z
